@@ -19,6 +19,14 @@ sys.path.append(str(pathlib.Path(__file__).parent.parent / "fastapi_server"))
 # Load environment variables
 load_dotenv()
 
+# Import BNS JSON loader for fast access to legal data
+try:
+    from bns_loader import get_bns_loader
+    print("✓ BNS JSON loader module loaded")
+except ImportError as e:
+    print(f"Warning: Could not load BNS loader: {e}")
+    get_bns_loader = None
+
 # Define request/response models
 class AdminLoginRequest(BaseModel):
     email: str
@@ -225,7 +233,10 @@ async def get_dashboard_stats(token: str = None) -> DashboardStats:
     await verify_admin_token(token)
     
     if not firebase_initialized:
-        raise HTTPException(status_code=503, detail="Firebase not initialized")
+        raise HTTPException(
+            status_code=503, 
+            detail="Firebase Admin SDK not initialized. Please configure Firebase service account credentials."
+        )
     
     try:
         # Get Firebase Realtime Database reference
@@ -620,7 +631,7 @@ async def update_user(
 async def get_legal_advice(request: LegalAdviceRequest):
     """
     Real AI endpoint for getting legal advice using Groq API
-    Uses Llama 3.3 70B model for specialized legal responses
+    Uses Llama 3.3 70B model for specialized legal responses with BNS PDF reference
     """
     try:
         user_message = request.message.strip()
@@ -632,6 +643,17 @@ async def get_legal_advice(request: LegalAdviceRequest):
         
         print(f"Processing legal advice request: {user_message[:50]}...")
         
+        # Get BNS context from JSON file (fast lookup)
+        bns_context = ""
+        if get_bns_loader:
+            try:
+                loader = get_bns_loader()
+                bns_context = loader.format_for_ai(user_message)
+                print(f"✓ Retrieved BNS context ({len(bns_context)} chars)")
+            except Exception as e:
+                print(f"Warning: Could not get BNS context: {e}")
+                bns_context = ""
+        
         # Use Groq API (fast, free, reliable)
         import requests
         
@@ -642,7 +664,7 @@ async def get_legal_advice(request: LegalAdviceRequest):
                 detail="AI service not configured. Please add GROQ_API_KEY to environment variables."
             )
         
-        system_prompt = """You are an expert legal assistant specialized in Indian Law and International Law.
+        system_prompt = f"""You are an expert legal assistant specialized in Indian Law and International Law.
 
 Provide accurate and educational legal information with proper citations to relevant Indian statutes.
 
@@ -655,6 +677,8 @@ IMPORTANT INSTRUCTIONS:
     - Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)
     - Bharatiya Sakshya Adhiniyam, 2023 (BSA)
     - Relevant Special Acts (e.g., IT Act, POCSO Act, etc.)
+
+{bns_context}
 
 Explain legal principles clearly in simple language.
 Mention punishments, legal ingredients, and exceptions where applicable.

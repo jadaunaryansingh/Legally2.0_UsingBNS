@@ -112,12 +112,16 @@ export default function Login() {
           errorMessage = "No account found with this email address.";
         } else if (err.message.includes("auth/wrong-password")) {
           errorMessage = "Incorrect password. Please try again.";
+        } else if (err.message.includes("auth/invalid-credential")) {
+          errorMessage = "Invalid email or password. Please check your credentials and try again.";
         } else if (err.message.includes("auth/email-already-in-use")) {
           errorMessage = "An account with this email already exists.";
         } else if (err.message.includes("auth/weak-password")) {
           errorMessage = "Password is too weak. Use at least 6 characters.";
         } else if (err.message.includes("auth/invalid-email")) {
           errorMessage = "Please enter a valid email address.";
+        } else if (err.message.includes("auth/too-many-requests")) {
+          errorMessage = "Too many failed attempts. Please try again later or reset your password.";
         } else {
           errorMessage = err.message;
         }
@@ -156,6 +160,10 @@ export default function Login() {
           errorMessage = "Sign-in was cancelled.";
         } else if (err.message.includes("popup-blocked")) {
           errorMessage = "Please allow popups to sign in with Google.";
+        } else if (err.message.includes("auth/invalid-credential")) {
+          errorMessage = "Google sign-in failed. Make sure Google authentication is enabled in Firebase Console.";
+        } else if (err.message.includes("auth/account-exists-with-different-credential")) {
+          errorMessage = "An account already exists with this email using a different sign-in method.";
         } else {
           errorMessage = err.message;
         }
@@ -193,6 +201,10 @@ export default function Login() {
           errorMessage = "Sign-in was cancelled.";
         } else if (err.message.includes("popup-blocked")) {
           errorMessage = "Please allow popups to sign in with GitHub.";
+        } else if (err.message.includes("auth/invalid-credential")) {
+          errorMessage = "GitHub sign-in failed. Make sure GitHub authentication is enabled in Firebase Console.";
+        } else if (err.message.includes("auth/account-exists-with-different-credential")) {
+          errorMessage = "An account already exists with this email using a different sign-in method.";
         } else {
           errorMessage = err.message;
         }

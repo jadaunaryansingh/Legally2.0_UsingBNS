@@ -2,7 +2,7 @@ import { useState, useRef, useEffect } from "react";
 import Layout from "@/components/Layout";
 import { Send, Scale, BookOpen, AlertCircle } from "lucide-react";
 import BalanceScaleLoader from "@/components/BalanceScaleLoader";
-import { saveChatMessage, getUserChats, saveUserData, signInAnonymouslyWithFirebase } from "@/services/firebase";
+import { auth, onAuthStateChangedWithAuth, saveChatMessage, getUserChats, saveUserData } from "@/services/firebase";
 
 interface Message {
   id: string;
@@ -29,6 +29,8 @@ export default function Chat() {
   const [inputValue, setInputValue] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const [chatHistoryLoaded, setChatHistoryLoaded] = useState(false);
+  const [authUserId, setAuthUserId] = useState<string | null>(null);
+  const [authUserEmail, setAuthUserEmail] = useState<string | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   const scrollToBottom = () => {
@@ -39,43 +41,54 @@ export default function Chat() {
     scrollToBottom();
   }, [messages]);
 
-  // Initialize anonymous user if not logged in
   useEffect(() => {
-    const initializeUser = async () => {
-      let userId = localStorage.getItem("userId");
-
-      // If no user ID exists, sign in anonymously with Firebase
-      if (!userId) {
-        try {
-          // Sign in anonymously through Firebase Authentication
-          const user = await signInAnonymouslyWithFirebase();
-          
-          // Save to localStorage
-          localStorage.setItem("userId", user.uid);
-          localStorage.setItem("userEmail", user.email || `anon-${user.uid}@legally.app`);
-
-          // Save to Firebase Realtime Database
-          await saveUserData({
-            uid: user.uid,
-            email: user.email || `anon-${user.uid}@legally.app`,
-          });
-          
-          console.log("Anonymous user created:", user.uid);
-        } catch (error) {
-          console.error("Error creating anonymous user:", error);
-        }
+    const unsubscribe = onAuthStateChangedWithAuth((user) => {
+      if (user) {
+        setAuthUserId(user.uid);
+        setAuthUserEmail(user.email || null);
+        localStorage.setItem("userId", user.uid);
+        localStorage.setItem("userEmail", user.email || "");
+      } else {
+        setAuthUserId(null);
+        setAuthUserEmail(null);
       }
-    };
+    });
 
-    initializeUser();
+    return () => unsubscribe();
   }, []);
 
+  const ensureUserSession = async () => {
+    const firebaseUser = auth.currentUser;
+    const userId = firebaseUser?.uid || authUserId;
+    const userEmail = firebaseUser?.email || authUserEmail || localStorage.getItem("userEmail");
+
+    if (!userId) {
+      throw new Error("No authenticated user session available");
+    }
+
+    const resolvedEmail = userEmail || `anon-${userId}@legally.app`;
+
+    localStorage.setItem("userId", userId);
+    localStorage.setItem("userEmail", resolvedEmail);
+
+    await saveUserData({
+      uid: userId,
+      email: resolvedEmail,
+    });
+
+    return { userId, userEmail: resolvedEmail };
+  };
+
+  // Initialize anonymous user if not logged in
   // Load chat history from Firebase on mount
   useEffect(() => {
     const loadChatHistory = async () => {
       try {
-        const userId = localStorage.getItem("userId");
-        if (!userId || chatHistoryLoaded) return;
+        if (chatHistoryLoaded) return;
+        if (!authUserId) return;
+
+        const { userId } = await ensureUserSession();
+        if (!userId) return;
 
         const chatHistory = await getUserChats(userId);
         
@@ -103,17 +116,31 @@ export default function Chat() {
         setChatHistoryLoaded(true);
       } catch (error) {
         console.error("Error loading chat history:", error);
-        setChatHistoryLoaded(true);
       }
     };
 
     loadChatHistory();
-  }, [chatHistoryLoaded]);
+  }, [authUserId, chatHistoryLoaded]);
 
   const handleSendMessage = async (e: React.FormEvent) => {
     e.preventDefault();
 
     if (!inputValue.trim()) return;
+
+    try {
+      await ensureUserSession();
+    } catch (error) {
+      console.error("Unable to create chat session:", error);
+      setMessages((prev) => [
+        ...prev,
+        {
+          id: Date.now().toString(),
+          type: "ai",
+          content: "Unable to start a chat session. Please sign in again and retry.",
+        },
+      ]);
+      return;
+    }
 
     // Add user message
     const userMessage: Message = {
@@ -136,7 +163,7 @@ export default function Chat() {
 
     setMessages((prev) => [...prev, loadingMessage]);
 
-    // Call the FastAPI + Hugging Face backend – and fall back to a local mock response on error
+    // Call the FastAPI backend – and fall back to a local mock response on error
     try {
       const res = await fetch(LEGAL_API_URL, {
         method: "POST",
@@ -164,21 +191,17 @@ export default function Chat() {
       });
 
       // Save chat message to Firebase
-      const userId = localStorage.getItem("userId");
-      const userEmail = localStorage.getItem("userEmail");
-      
-      if (userId && userEmail) {
-        try {
-          await saveChatMessage({
-            userId,
-            userEmail,
-            message: inputValue,
-            response: aiResponse.content,
-            category: data.category || "General",
-          });
-        } catch (saveError) {
-          console.error("Error saving chat to Firebase:", saveError);
-        }
+      try {
+        const { userId, userEmail } = await ensureUserSession();
+        await saveChatMessage({
+          userId,
+          userEmail,
+          message: inputValue,
+          response: aiResponse.content,
+          category: data.category || "General",
+        });
+      } catch (saveError) {
+        console.error("Error saving chat to Firebase:", saveError);
       }
     } catch (error) {
       console.error("Error fetching legal advice, using mock response instead:", error);
@@ -194,21 +217,17 @@ export default function Chat() {
       setMessages((prev) => [...prev.slice(0, -1), fallbackResponse]);
 
       // Save fallback chat message to Firebase
-      const userId = localStorage.getItem("userId");
-      const userEmail = localStorage.getItem("userEmail");
-      
-      if (userId && userEmail) {
-        try {
-          await saveChatMessage({
-            userId,
-            userEmail,
-            message: inputValue,
-            response: fallbackResponse.content,
-            category: "General",
-          });
-        } catch (saveError) {
-          console.error("Error saving fallback chat to Firebase:", saveError);
-        }
+      try {
+        const { userId, userEmail } = await ensureUserSession();
+        await saveChatMessage({
+          userId,
+          userEmail,
+          message: inputValue,
+          response: fallbackResponse.content,
+          category: "General",
+        });
+      } catch (saveError) {
+        console.error("Error saving fallback chat to Firebase:", saveError);
       }
     }
 

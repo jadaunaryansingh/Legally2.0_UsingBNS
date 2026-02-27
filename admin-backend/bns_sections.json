@@ -1,0 +1,3498 @@
+{
+  "metadata": {
+    "title": "Bharatiya Nyaya Sanhita, 2023",
+    "short_name": "BNS",
+    "replaces": "Indian Penal Code, 1860 (IPC)",
+    "effective_date": "July 1, 2024",
+    "total_sections": 384,
+    "description": "The Bharatiya Nyaya Sanhita (BNS) is the new criminal code of India that replaces the Indian Penal Code (IPC)"
+  },
+  "sections": {
+    "1": {
+      "section": "1",
+      "title": "Short title, commencement and application.",
+      "description": "Short title, commencement and application.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "2": {
+      "section": "2",
+      "title": "Definitions.",
+      "description": "Definitions.",
+      "punishment": null,
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "3": {
+      "section": "3",
+      "title": "General explanations.",
+      "description": "OF PUNISHMENTS",
+      "punishment": null,
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "4": {
+      "section": "4",
+      "title": "Punishments.",
+      "description": "Punishments.",
+      "punishment": null,
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "5": {
+      "section": "5",
+      "title": "Commutation of sentence.",
+      "description": "Commutation of sentence.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "6": {
+      "section": "6",
+      "title": "Fractions of terms of punishment.",
+      "description": "Fractions of terms of punishment.",
+      "punishment": "Fractions of terms of punishment",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "7": {
+      "section": "7",
+      "title": "Sense",
+      "description": "27. Property in possession of wife, clerk or servant. 32. Words referring to acts include illegal omissions. 34. Acts done by several persons in furtherance of common intention. 35. When such an act is criminal by reason of its being done with a criminal knowledge or intention.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "8": {
+      "section": "8",
+      "title": "Amount of fine, liability in default of payment of fine, etc.",
+      "description": "Amount of fine, liability in default of payment of fine, etc.",
+      "punishment": "Amount of fine, liability in default of payment of fine, etc",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "9": {
+      "section": "9",
+      "title": "Limit of punishment of offence made up of several offences.",
+      "description": "Limit of punishment of offence made up of several offences.",
+      "punishment": "Limit of punishment of offence made up of several offences",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "10": {
+      "section": "10",
+      "title": "Punishment of person guilty of one of several offences,",
+      "description": "judgment stating that it is doubtful of which.",
+      "punishment": "Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "11": {
+      "section": "11",
+      "title": "Solitary confinement.",
+      "description": "Solitary confinement.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "12": {
+      "section": "12",
+      "title": "Limit of solitary confinement.",
+      "description": "Limit of solitary confinement.",
+      "punishment": "Limit of solitary confinement",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "13": {
+      "section": "13",
+      "title": "Enhanced punishment for certain offences after previous",
+      "description": "conviction. CHAPTER III GENERAL EXCEPTIONS",
+      "punishment": "Enhanced punishment for certain offences after previous conviction",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "14": {
+      "section": "14",
+      "title": "Act done by a person bound, or by mistake of fact believing",
+      "description": "himself bound, by law.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "15": {
+      "section": "15",
+      "title": "Act",
+      "description": "judicially. 77. Act of Judge when acting judicially. 16. Act done pursuant to judgment or order of Court.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "16": {
+      "section": "16",
+      "title": "Act done pursuant to judgment or order of Court.",
+      "description": "Act done pursuant to judgment or order of Court.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "17": {
+      "section": "17",
+      "title": "Act done by a person justified, or by mistake of fact believing",
+      "description": "himself justified, by law.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "18": {
+      "section": "18",
+      "title": "Accident in doing a lawful act.",
+      "description": "Accident in doing a lawful act.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "19": {
+      "section": "19",
+      "title": "Act likely to cause harm, but done without criminal intent, and",
+      "description": "to prevent other harm.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "20": {
+      "section": "20",
+      "title": "Act of a child under seven years of age.",
+      "description": "Act of a child under seven years of age.",
+      "punishment": "Act of a child under seven years of age",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "21": {
+      "section": "21",
+      "title": "Act of a child above seven and under twelve years of age of",
+      "description": "immature understanding.",
+      "punishment": "Act of a child above seven and under twelve years of age of immature understanding",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "22": {
+      "section": "22",
+      "title": "Act of a person of unsound mind.",
+      "description": "Act of a person of unsound mind.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "23": {
+      "section": "23",
+      "title": "Act of a person incapable of judgment by reason of intoxication",
+      "description": "caused against his will.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "24": {
+      "section": "24",
+      "title": "Offence requiring a particular intent or knowledge committed",
+      "description": "by one who is intoxicated.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "25": {
+      "section": "25",
+      "title": "Act not intended and not known to be likely to cause death or",
+      "description": "grievous hurt, done by consent.",
+      "punishment": "Act not intended and not known to be likely to cause death or grievous hurt, done by consent",
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "26": {
+      "section": "26",
+      "title": "Act not intended to cause death, done by consent in good faith",
+      "description": "for person’s benefit.",
+      "punishment": "Act not intended to cause death, done by consent in good faith for person’s benefit",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "27": {
+      "section": "27",
+      "title": "Act done in good faith for benefit of child or person of unsound",
+      "description": "mind, by, or by consent of guardian.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "28": {
+      "section": "28",
+      "title": "Consent known to be given under fear or misconception.",
+      "description": "Consent known to be given under fear or misconception.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "29": {
+      "section": "29",
+      "title": "Exclusion of acts which are offences independently of harm",
+      "description": "Exclusion of acts which are offences independently of harm",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "30": {
+      "section": "30",
+      "title": "Act done in good faith for benefit of a person without consent.",
+      "description": "Act done in good faith for benefit of a person without consent.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "31": {
+      "section": "31",
+      "title": "Communication made in good faith.",
+      "description": "Communication made in good faith.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "32": {
+      "section": "32",
+      "title": "Act to which a person is compelled by threats.",
+      "description": "Act to which a person is compelled by threats.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "33": {
+      "section": "33",
+      "title": "Act causing slight harm.",
+      "description": "Of right of private defence",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "34": {
+      "section": "34",
+      "title": "Things done in private defence.",
+      "description": "Things done in private defence.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "35": {
+      "section": "35",
+      "title": "Right of private defence of body and of property.",
+      "description": "Right of private defence of body and of property.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "36": {
+      "section": "36",
+      "title": "Right of private defence against act of a person of unsound",
+      "description": "Right of private defence against act of a person of unsound",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "37": {
+      "section": "37",
+      "title": "Acts against which there is no right of private defence.",
+      "description": "Acts against which there is no right of private defence.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "38": {
+      "section": "38",
+      "title": "When right of private defence of body extends to causing",
+      "description": "When right of private defence of body extends to causing",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "39": {
+      "section": "39",
+      "title": "When such right extends to causing any harm other than",
+      "description": "When such right extends to causing any harm other than",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "40": {
+      "section": "40",
+      "title": "Commencement and continuance of right of private defence of",
+      "description": "Commencement and continuance of right of private defence of",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "41": {
+      "section": "41",
+      "title": "When right of private defence of property extends to causing",
+      "description": "When right of private defence of property extends to causing",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "42": {
+      "section": "42",
+      "title": "When such right extends to causing any harm other than",
+      "description": "When such right extends to causing any harm other than",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "43": {
+      "section": "43",
+      "title": "Commencement and continuance of right of private defence of",
+      "description": "Commencement and continuance of right of private defence of",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "44": {
+      "section": "44",
+      "title": "Right of private defence against deadly assault when there is",
+      "description": "risk of harm to innocent person. OF ABETMENT, CRIMINAL CONSPIRACY AND ATTEMPT Of abetment",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "45": {
+      "section": "45",
+      "title": "Abetment of a thing.",
+      "description": "Abetment of a thing.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "46": {
+      "section": "46",
+      "title": "Abettor.",
+      "description": "Abettor.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "47": {
+      "section": "47",
+      "title": "Abetment in India of offences outside India.",
+      "description": "Abetment in India of offences outside India.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "48": {
+      "section": "48",
+      "title": "Abetment outside India for offence in India.",
+      "description": "Abetment outside India for offence in India.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "49": {
+      "section": "49",
+      "title": "Punishment of abetment if act abetted is committed in",
+      "description": "consequence and where no express provision is made for its punishment.",
+      "punishment": "Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "50": {
+      "section": "50",
+      "title": "Punishment of abetment if person abetted does act with",
+      "description": "different intention from that of abettor.",
+      "punishment": "Punishment of abetment if person abetted does act with different intention from that of abettor",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "51": {
+      "section": "51",
+      "title": "Liability of abettor when one act abetted and different act",
+      "description": "Liability of abettor when one act abetted and different act",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "52": {
+      "section": "52",
+      "title": "Abettor when liable to cumulative punishment for act abetted",
+      "description": "and for act done.",
+      "punishment": "Abettor when liable to cumulative punishment for act abetted and for act done",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "53": {
+      "section": "53",
+      "title": "Liability of abettor for an effect caused by act abetted different",
+      "description": "from that intended by abettor.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "54": {
+      "section": "54",
+      "title": "Abettor present when offence is committed.",
+      "description": "Abettor present when offence is committed.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "55": {
+      "section": "55",
+      "title": "Abetment of offence punishable with death or imprisonment",
+      "description": "Abetment of offence punishable with death or imprisonment",
+      "punishment": "Abetment of offence punishable with death or imprisonment",
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "56": {
+      "section": "56",
+      "title": "Abetment of offence punishable with imprisonment.",
+      "description": "Abetment of offence punishable with imprisonment.",
+      "punishment": "Abetment of offence punishable with imprisonment",
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "57": {
+      "section": "57",
+      "title": "Abetting commission of offence by public or by more than ten",
+      "description": "Abetting commission of offence by public or by more than ten",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "58": {
+      "section": "58",
+      "title": "Concealing design to commit offence punishable with death or",
+      "description": "imprisonment for life.",
+      "punishment": "Concealing design to commit offence punishable with death or imprisonment for life",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "59": {
+      "section": "59",
+      "title": "Public servant concealing design to commit offence which it is",
+      "description": "his duty to prevent.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "60": {
+      "section": "60",
+      "title": "Concealing design to commit offence punishable with",
+      "description": "imprisonment. Of criminal conspiracy",
+      "punishment": "Concealing design to commit offence punishable with imprisonment",
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "61": {
+      "section": "61",
+      "title": "Criminal conspiracy.",
+      "description": "Criminal conspiracy.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "62": {
+      "section": "62",
+      "title": "Punishment for attempting to commit offences punishable",
+      "description": "with imprisonment for life or other imprisonment. OF OFFENCES AGAINST WOMAN AND CHILD Of sexual offences",
+      "punishment": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+      "category": "Sexual Offences",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "63": {
+      "section": "63",
+      "title": "Rape.",
+      "description": "Rape.",
+      "punishment": null,
+      "category": "Sexual Offences",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "64": {
+      "section": "64",
+      "title": "Punishment for rape.",
+      "description": "Punishment for rape.",
+      "punishment": null,
+      "category": "Sexual Offences",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "65": {
+      "section": "65",
+      "title": "Punishment for rape in certain cases.",
+      "description": "Punishment for rape in certain cases.",
+      "punishment": "Punishment for rape in certain cases",
+      "category": "Sexual Offences",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "66": {
+      "section": "66",
+      "title": "Punishment for causing death or resulting in persistent",
+      "description": "vegetative state of victim.",
+      "punishment": "Punishment for causing death or resulting in persistent vegetative state of victim",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "67": {
+      "section": "67",
+      "title": "Sexual intercourse by husband upon his wife during",
+      "description": "separation.",
+      "punishment": null,
+      "category": "Sexual Offences",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "68": {
+      "section": "68",
+      "title": "Sexual intercourse by a person in authority.",
+      "description": "Sexual intercourse by a person in authority.",
+      "punishment": null,
+      "category": "Sexual Offences",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "69": {
+      "section": "69",
+      "title": "Sexual",
+      "description": "intercourse employing deceitful means etc. New Section 70. Gang rape. 376D. Gang rape. 70(2) (Gang Rape - Below 18 years) 376DA.Punishment for gang rape on woman under sixteen years of age. 376DB. Punishment for gang rape on woman under twelve years of age. 71. Punishment for repeat offenders. 376E.",
+      "punishment": "Punishment for gang rape on woman under sixteen years of age",
+      "category": "Sexual Offences",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "70": {
+      "section": "70",
+      "title": "Gang rape.",
+      "description": "Gang rape.",
+      "punishment": null,
+      "category": "Sexual Offences",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "71": {
+      "section": "71",
+      "title": "Punishment for repeat offenders.",
+      "description": "Punishment for repeat offenders.",
+      "punishment": "Punishment for repeat offenders",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "72": {
+      "section": "72",
+      "title": "Disclosure of identity of victim of certain offences, etc.",
+      "description": "Disclosure of identity of victim of certain offences, etc.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "73": {
+      "section": "73",
+      "title": "Printing or publishing any matter relating to Court",
+      "description": "proceedings without permission. Of criminal force and assault against woman",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "74": {
+      "section": "74",
+      "title": "Assault or use of criminal force to woman with intent to",
+      "description": "outrage her modesty.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "75": {
+      "section": "75",
+      "title": "Sexual harassment.",
+      "description": "Sexual harassment.",
+      "punishment": null,
+      "category": "Sexual Offences",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "76": {
+      "section": "76",
+      "title": "Assault or use of criminal force to woman with intent to",
+      "description": "Assault or use of criminal force to woman with intent to",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "77": {
+      "section": "77",
+      "title": "Voyeurism.",
+      "description": "Voyeurism.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "78": {
+      "section": "78",
+      "title": "Act",
+      "description": "judgment or order of Court. 17. Act done by a person justified, or by mistake of fact believing himself justified, by law. 79. Act done by a person justified, or by mistake of fact believing himself, justified, by law. 18. Accident in doing a lawful act. 80. Accident in doing a lawful act. 19. Act likely to cause harm, but done without criminal intent, and to prevent other harm. 81. Act likely to cause harm, but done without criminal intent, and to",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "79": {
+      "section": "79",
+      "title": "Word, gesture or act intended to insult modesty of a woman.",
+      "description": "Of offences relating to marriage",
+      "punishment": null,
+      "category": "Sexual Offences",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "80": {
+      "section": "80",
+      "title": "Dowry death.",
+      "description": "Dowry death.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "81": {
+      "section": "81",
+      "title": "Cohabitation caused by man deceitfully inducing belief of",
+      "description": "lawful marriage.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "82": {
+      "section": "82",
+      "title": "Marrying again during lifetime of husband or wife.",
+      "description": "Marrying again during lifetime of husband or wife.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "83": {
+      "section": "83",
+      "title": "Marriage ceremony fraudulently gone through without lawful",
+      "description": "Marriage ceremony fraudulently gone through without lawful",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "84": {
+      "section": "84",
+      "title": "Enticing or taking away or detaining with criminal intent a",
+      "description": "married woman.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "85": {
+      "section": "85",
+      "title": "Husband or relative of husband of a woman subjecting her to",
+      "description": "Husband or relative of husband of a woman subjecting her to",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "86": {
+      "section": "86",
+      "title": "Cruelty defined.",
+      "description": "Cruelty defined.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "87": {
+      "section": "87",
+      "title": "Kidnapping, abducting or inducing woman to compel her",
+      "description": "marriage, etc. Of causing of miscarriage, etc.",
+      "punishment": null,
+      "category": "Kidnapping",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "88": {
+      "section": "88",
+      "title": "Causing miscarriage.",
+      "description": "Causing miscarriage.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "89": {
+      "section": "89",
+      "title": "Causing",
+      "description": "miscarriage woman’s consent. 313. Causing miscarriage without woman's consent. 90. Death caused by act done with intent to cause miscarriage. 314. Death caused by act done with intent to cause miscarriage. 91. Act done with intent to prevent child being born alive or to cause to die after birth. 315. Act done with intent to prevent child being born alive or to cause it to die after birth. 92. Causing death of quick unborn child by act amounting to culpable",
+      "punishment": "Death caused by act done with intent to cause miscarriage",
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "90": {
+      "section": "90",
+      "title": "Death caused by act done with intent to cause miscarriage.",
+      "description": "Death caused by act done with intent to cause miscarriage.",
+      "punishment": "Death caused by act done with intent to cause miscarriage",
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "91": {
+      "section": "91",
+      "title": "Act done with intent to prevent child being born alive or to",
+      "description": "cause to die after birth.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "92": {
+      "section": "92",
+      "title": "Causing death of quick unborn child by act amounting to",
+      "description": "culpable homicide. Of offences against child",
+      "punishment": "Causing death of quick unborn child by act amounting to culpable homicide",
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "93": {
+      "section": "93",
+      "title": "Exposure and abandonment of child under twelve years of age,",
+      "description": "by parent or person having care of it.",
+      "punishment": "Exposure and abandonment of child under twelve years of age, by parent or person having care of it",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "94": {
+      "section": "94",
+      "title": "Concealment of birth by secret disposal of dead body.",
+      "description": "Concealment of birth by secret disposal of dead body.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "95": {
+      "section": "95",
+      "title": "Hiring, employing or engaging a child to commit an offence.",
+      "description": "Hiring, employing or engaging a child to commit an offence.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "96": {
+      "section": "96",
+      "title": "Procuration of child.",
+      "description": "Procuration of child.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "97": {
+      "section": "97",
+      "title": "Kidnapping or abducting child under ten years of age with",
+      "description": "intent to steal from its person.",
+      "punishment": "Kidnapping or abducting child under ten years of age with intent to steal from its person",
+      "category": "Kidnapping",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "98": {
+      "section": "98",
+      "title": "Selling child for purposes of prostitution, etc.",
+      "description": "Selling child for purposes of prostitution, etc.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "99": {
+      "section": "99",
+      "title": "Buying",
+      "description": "prostitution, OF OFFENCES AFFECTING THE HUMAN BODY Of offences affecting life",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "100": {
+      "section": "100",
+      "title": "Culpable homicide.",
+      "description": "Culpable homicide.",
+      "punishment": null,
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "101": {
+      "section": "101",
+      "title": "Murder.",
+      "description": "Murder.",
+      "punishment": null,
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "102": {
+      "section": "102",
+      "title": "Culpable homicide by causing death of person other than",
+      "description": "person whose death was intended.",
+      "punishment": "Culpable homicide by causing death of person other than person whose death was intended",
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "103": {
+      "section": "103",
+      "title": "Punishment for murder.",
+      "description": "Punishment for murder.",
+      "punishment": "Punishment for murder",
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "104": {
+      "section": "104",
+      "title": "Punishment for murder by life-convict.",
+      "description": "Punishment for murder by life-convict.",
+      "punishment": "Punishment for murder by life-convict",
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "105": {
+      "section": "105",
+      "title": "Punishment",
+      "description": "homicide not amounting to murder.",
+      "punishment": "Punishment homicide not amounting to murder",
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "106": {
+      "section": "106",
+      "title": "Causing death by negligence.",
+      "description": "Causing death by negligence.",
+      "punishment": "Causing death by negligence",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "107": {
+      "section": "107",
+      "title": "Abetment of suicide of child or person of unsound mind.",
+      "description": "Abetment of suicide of child or person of unsound mind.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "108": {
+      "section": "108",
+      "title": "Abetment of suicide.",
+      "description": "Abetment of suicide.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "109": {
+      "section": "109",
+      "title": "Attempt to murder.",
+      "description": "Attempt to murder.",
+      "punishment": null,
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "110": {
+      "section": "110",
+      "title": "Attempt to commit culpable homicide.",
+      "description": "Attempt to commit culpable homicide.",
+      "punishment": null,
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "111": {
+      "section": "111",
+      "title": "Organised crime.",
+      "description": "Organised crime.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "112": {
+      "section": "112",
+      "title": "Abettor",
+      "description": "abetted and for act done. 53. Liability of abettor for an effect caused by act abetted different from that intended by abettor. 113. Liability of abettor for an effect caused by the act abetted different from that intended by the abettor. 54. Abettor present when offence is 114. Abettor present when offence is",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "113": {
+      "section": "113",
+      "title": "Terrorist act.",
+      "description": "Terrorist act.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "114": {
+      "section": "114",
+      "title": "Hurt.",
+      "description": "Hurt.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "115": {
+      "section": "115",
+      "title": "Voluntarily causing hurt.",
+      "description": "Voluntarily causing hurt.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "116": {
+      "section": "116",
+      "title": "Grievous hurt.",
+      "description": "Grievous hurt.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "117": {
+      "section": "117",
+      "title": "Voluntarily causing grievous hurt.",
+      "description": "Voluntarily causing grievous hurt.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "118": {
+      "section": "118",
+      "title": "Voluntarily causing hurt or grievous hurt by dangerous",
+      "description": "weapons or means.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "119": {
+      "section": "119",
+      "title": "Voluntarily causing hurt or grievous hurt to extort property, or",
+      "description": "to constrain to an illegal act.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "120": {
+      "section": "120",
+      "title": "Voluntarily causing hurt or grievous hurt to extort confession,",
+      "description": "or to compel restoration of property.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "121": {
+      "section": "121",
+      "title": "Voluntarily causing hurt or grievous hurt to deter public",
+      "description": "servant from his duty.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "122": {
+      "section": "122",
+      "title": "Voluntarily causing hurt or grievous hurt on provocation.",
+      "description": "Voluntarily causing hurt or grievous hurt on provocation.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "123": {
+      "section": "123",
+      "title": "Concealing",
+      "description": "facilitate design to wage war. 151. Assaulting President, Governor, etc., with intent to compel or restrain exercise of any lawful power. 124. Assaulting President, Governor, etc., with intent to compel or restrain the exercise of any lawful 124A. Sedition",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "124": {
+      "section": "124",
+      "title": "Voluntarily causing grievous hurt by use of acid, etc.",
+      "description": "Voluntarily causing grievous hurt by use of acid, etc.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "125": {
+      "section": "125",
+      "title": "Act endangering life or personal safety of others.",
+      "description": "Of wrongful restraint and wrongful confinement",
+      "punishment": "Of wrongful restraint and wrongful confinement",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "126": {
+      "section": "126",
+      "title": "Wrongful restraint.",
+      "description": "Wrongful restraint.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "127": {
+      "section": "127",
+      "title": "Wrongful confinement.",
+      "description": "Of criminal force and assault",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "128": {
+      "section": "128",
+      "title": "Public",
+      "description": "voluntarily allowing prisoner of state or war to",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "129": {
+      "section": "129",
+      "title": "Public",
+      "description": "negligently suffering such prisoner to escape. 158. Aiding escape of, rescuing or harbouring such prisoner. 130. Aiding escape of, rescuing or harbouring such prisoner. CHAPTER VIII OF OFFENCES RELATING TO THE ARMY, NAVY AND AIR FORCE CHAPTER VII OF OFFENCES RELATING TO THE ARMY, NAVY AND AIR FORCE 159. Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty. 131. Abetting mutiny, or attempting to seduce a soldier, sailor or airman",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "130": {
+      "section": "130",
+      "title": "Assault.",
+      "description": "Assault.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "131": {
+      "section": "131",
+      "title": "Punishment for assault or criminal force otherwise than on",
+      "description": "grave provocation.",
+      "punishment": "Punishment for assault or criminal force otherwise than on grave provocation",
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "132": {
+      "section": "132",
+      "title": "Assault or criminal force to deter public servant from discharge",
+      "description": "of his duty",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "133": {
+      "section": "133",
+      "title": "Assault or criminal force with intent to dishonour person,",
+      "description": "otherwise than on grave provocation.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "134": {
+      "section": "134",
+      "title": "Assault or criminal force in attempt to commit theft of property",
+      "description": "carried by a person.",
+      "punishment": null,
+      "category": "Theft",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "135": {
+      "section": "135",
+      "title": "Abetment",
+      "description": "soldier, sailor or airman. 164. Harbouring deserter. 136. Harbouring deserter. 165. Deserter concealed on board merchant vessel through negligence 137. Deserter concealed on board negligence of master.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "136": {
+      "section": "136",
+      "title": "Assault or criminal force on grave provocation.",
+      "description": "Of kidnapping, abduction, slavery and forced labour",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "137": {
+      "section": "137",
+      "title": "Kidnapping.",
+      "description": "Kidnapping.",
+      "punishment": null,
+      "category": "Kidnapping",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "138": {
+      "section": "138",
+      "title": "Abetment",
+      "description": "insubordination by soldier, sailor or 167. Persons subject to certain Acts. 139. Persons subject to certain Acts. 168. Wearing garb or carrying token used by soldier, sailor or airman. 140. Wearing garb or carrying token used by soldier, sailor or airman. OF OFFENCES RELATING TO CHAPTER IXA OF OFFENCES RELATING TO",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "139": {
+      "section": "139",
+      "title": "Kidnapping or maiming a child for purposes of begging.",
+      "description": "Kidnapping or maiming a child for purposes of begging.",
+      "punishment": null,
+      "category": "Kidnapping",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "140": {
+      "section": "140",
+      "title": "Kidnapping or abducting in order to murder or for ransom, etc.",
+      "description": "Kidnapping or abducting in order to murder or for ransom, etc.",
+      "punishment": null,
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "141": {
+      "section": "141",
+      "title": "Importation of girl or boy from foreign country.",
+      "description": "Importation of girl or boy from foreign country.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "142": {
+      "section": "142",
+      "title": "Wrongfully concealing or keeping in confinement, kidnapped",
+      "description": "or abducted person.",
+      "punishment": "Wrongfully concealing or keeping in confinement, kidnapped or abducted person",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "143": {
+      "section": "143",
+      "title": "Trafficking of person.",
+      "description": "Trafficking of person.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "144": {
+      "section": "144",
+      "title": "Joining",
+      "description": "armed with deadly weapon. 151. Knowingly joining or continuing in assembly of five or more persons after it has been commanded to 150. Hiring, or conniving at hiring, of persons to join unlawful assembly. 157. Harbouring persons hired for an unlawful assembly. 158. Being hired to take part in an unlawful assembly or riot.",
+      "punishment": null,
+      "category": "Public Order",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "145": {
+      "section": "145",
+      "title": "Habitual dealing in slaves.",
+      "description": "Habitual dealing in slaves.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "146": {
+      "section": "146",
+      "title": "Unlawful compulsory labour.",
+      "description": "CHAPTER VII OF OFFENCES AGAINST THE STATE",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "147": {
+      "section": "147",
+      "title": "Waging, or attempting to wage war, or abetting waging of war,",
+      "description": "against Government of India.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "148": {
+      "section": "148",
+      "title": "Conspiracy to commit offences punishable by section 147.",
+      "description": "Conspiracy to commit offences punishable by section 147.",
+      "punishment": "Conspiracy to commit offences punishable by section 147",
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "149": {
+      "section": "149",
+      "title": "Collecting",
+      "description": "intention of waging war against Government of India. 122. Collecting arms, etc., with intention of waging war against the Government of India.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "150": {
+      "section": "150",
+      "title": "Concealing",
+      "description": "facilitate design to wage war.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "151": {
+      "section": "151",
+      "title": "Assaulting President, Governor, etc., with intent to compel or",
+      "description": "restrain exercise of any lawful power.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "152": {
+      "section": "152",
+      "title": "Acts",
+      "description": "endangering sovereignty, unity and integrity New Section 153. Waging war against Government of any foreign State at peace with Government of India. 125. Waging war against any Asiatic Government of India.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "153": {
+      "section": "153",
+      "title": "Waging war against Government of any foreign State at peace",
+      "description": "with Government of India.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "154": {
+      "section": "154",
+      "title": "Committing",
+      "description": "depredation territories of foreign State at peace with Government of India. 126. Committing depredation on territories of Power at peace with the Government of India. 155. Receiving property taken by war or depredation mentioned in sections 153 and 154. 127. Receiving property taken by war depredation sections 125 and 126.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "155": {
+      "section": "155",
+      "title": "Receiving property taken by war or depredation mentioned in",
+      "description": "sections 153 and 154.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "156": {
+      "section": "156",
+      "title": "Public",
+      "description": "voluntarily allowing prisoner of State or war to",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "157": {
+      "section": "157",
+      "title": "Public",
+      "description": "negligently suffering such prisoner to escape.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "158": {
+      "section": "158",
+      "title": "Aiding escape of, rescuing or harbouring such prisoner.",
+      "description": "CHAPTER VIII OF OFFENCES RELATING TO THE ARMY, NAVY AND AIR FORCE",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "159": {
+      "section": "159",
+      "title": "Abetting mutiny, or attempting to seduce a soldier, sailor or",
+      "description": "airman from his duty.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "160": {
+      "section": "160",
+      "title": "Abetment of mutiny, if mutiny is committed in consequence",
+      "description": "Abetment of mutiny, if mutiny is committed in consequence",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "161": {
+      "section": "161",
+      "title": "Abetment of assault by soldier, sailor or airman on his superior",
+      "description": "officer, when in execution of his office.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "162": {
+      "section": "162",
+      "title": "Abetment of such assault, if assault committed.",
+      "description": "Abetment of such assault, if assault committed.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "163": {
+      "section": "163",
+      "title": "Abetment of desertion of soldier, sailor or airman.",
+      "description": "Abetment of desertion of soldier, sailor or airman.",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "164": {
+      "section": "164",
+      "title": "Harbouring deserter.",
+      "description": "Harbouring deserter.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "165": {
+      "section": "165",
+      "title": "Deserter concealed on board merchant vessel through",
+      "description": "negligence of master.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "166": {
+      "section": "166",
+      "title": "Abetment",
+      "description": "insubordination by soldier, sailor or",
+      "punishment": null,
+      "category": "Abetment & Conspiracy",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "167": {
+      "section": "167",
+      "title": "Persons subject to certain Acts.",
+      "description": "Persons subject to certain Acts.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "168": {
+      "section": "168",
+      "title": "Public",
+      "description": "engaging in trade. 203. Public servant unlawfully buying or bidding for property. 169. Public servant unlawfully buying or bidding for property. 204. Personating a public servant. 170. Personating a public servant. 205. Wearing garb or carrying token fraudulent intent. 171. Wearing garb or carrying token",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "169": {
+      "section": "169",
+      "title": "Candidate,",
+      "description": "171A. “Candidate”, “Electoral right” 170. Bribery. 171B. Bribery. 171. Undue influence at elections. 171C. Undue influence at elections. 172. Personation at elections. 171D. Personation at elections. 173. Punishment for bribery. 171E. Punishment for bribery. 174. Punishment for undue influence or personation at an election.",
+      "punishment": "Punishment for bribery",
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "170": {
+      "section": "170",
+      "title": "Bribery.",
+      "description": "Bribery.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "171": {
+      "section": "171",
+      "title": "Undue influence at elections.",
+      "description": "Undue influence at elections.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "172": {
+      "section": "172",
+      "title": "Personation at elections.",
+      "description": "Personation at elections.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "173": {
+      "section": "173",
+      "title": "Punishment for bribery.",
+      "description": "Punishment for bribery.",
+      "punishment": "Punishment for bribery",
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "174": {
+      "section": "174",
+      "title": "Punishment for undue influence or personation at an election.",
+      "description": "Punishment for undue influence or personation at an election.",
+      "punishment": "Punishment for undue influence or personation at an election",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "175": {
+      "section": "175",
+      "title": "False statement in connection with an election.",
+      "description": "False statement in connection with an election.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "176": {
+      "section": "176",
+      "title": "Illegal payments in connection with an election.",
+      "description": "Illegal payments in connection with an election.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "177": {
+      "section": "177",
+      "title": "Failure",
+      "description": "OF OFFENCES RELATING TO COIN, CURRENCY-NOTES, BANK- NOTES, AND GOVERNMENT CHAPTER XII OF OFFENCES RELATING TO COIN AND GOVERNMENT",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "178": {
+      "section": "178",
+      "title": "Counterfeiting coin, Government stamps, currency-notes or",
+      "description": "bank-notes.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "179": {
+      "section": "179",
+      "title": "Using as genuine, forged or counterfeit coin, Government",
+      "description": "stamp, currency-notes or bank-notes.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "180": {
+      "section": "180",
+      "title": "Possession",
+      "description": "counterfeit coin, Government stamp, currency-notes or bank-notes. 242. Possession of counterfeit coin by person who knew it to be counterfeit possessed thereof. 243. Possession of Indian coin by",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "181": {
+      "section": "181",
+      "title": "Making",
+      "description": "instruments or materials for forging or counterfeiting coin, Government currency-notes 233. Making or selling instrument for counterfeiting coin. 234. Making or selling instrument for counterfeiting Indian coin. 235. Possession of instrument or material for the purpose of using the same for counterfeiting coin. 256. Having possession of instrument or material for",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "182": {
+      "section": "182",
+      "title": "Making or using documents resembling currency-notes or",
+      "description": "bank-notes.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "183": {
+      "section": "183",
+      "title": "Effacing writing from substance bearing Government stamp,",
+      "description": "or removing from document a stamp used for it, with intent to cause loss to Government.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "184": {
+      "section": "184",
+      "title": "Using Government stamp known to have been before used.",
+      "description": "Using Government stamp known to have been before used.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "185": {
+      "section": "185",
+      "title": "Erasure of mark denoting that stamp has been used.",
+      "description": "Erasure of mark denoting that stamp has been used.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "186": {
+      "section": "186",
+      "title": "Prohibition of fictitious stamps.",
+      "description": "Prohibition of fictitious stamps.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "187": {
+      "section": "187",
+      "title": "Omission",
+      "description": "servant when bound by law to give assistance. 223. Disobedience to order duly promulgated by public servant. 188. Disobedience to order duly promulgated by public servant. 224. Threat of injury to public 189. Threat of injury to public 225. Threat of injury to induce person",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "188": {
+      "section": "188",
+      "title": "Unlawfully taking coining instrument from mint.",
+      "description": "OF OFFENCES AGAINST THE PUBLIC TRANQUILLITY",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "189": {
+      "section": "189",
+      "title": "Unlawful assembly.",
+      "description": "Unlawful assembly.",
+      "punishment": null,
+      "category": "Public Order",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "190": {
+      "section": "190",
+      "title": "Every member of unlawful assembly guilty of offence",
+      "description": "committed in prosecution of common object.",
+      "punishment": null,
+      "category": "Public Order",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "191": {
+      "section": "191",
+      "title": "Rioting.",
+      "description": "Rioting.",
+      "punishment": null,
+      "category": "Public Order",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "192": {
+      "section": "192",
+      "title": "Wantonly giving provocation with intent to cause riot- if rioting",
+      "description": "be committed; if not committed.",
+      "punishment": null,
+      "category": "Public Order",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "193": {
+      "section": "193",
+      "title": "Liability of owner, occupier, etc., of land on which an unlawful",
+      "description": "assembly or riot takes place.",
+      "punishment": null,
+      "category": "Public Order",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "194": {
+      "section": "194",
+      "title": "Affray.",
+      "description": "Affray.",
+      "punishment": null,
+      "category": "Public Order",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "195": {
+      "section": "195",
+      "title": "Assaulting or obstructing public servant when suppressing riot,",
+      "description": "Assaulting or obstructing public servant when suppressing riot,",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "196": {
+      "section": "196",
+      "title": "Promoting",
+      "description": "residence, language, etc., and doing acts prejudicial to maintenance of 153A. Promoting enmity between different groups on ground of",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "197": {
+      "section": "197",
+      "title": "Issuing",
+      "description": "certificate 235. Using as true a certificate known to be false. 198. Using as true a certificate known to be false.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "198": {
+      "section": "198",
+      "title": "Public servant disobeying law, with intent to cause injury to",
+      "description": "any person.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "199": {
+      "section": "199",
+      "title": "False",
+      "description": "declaration receivable as evidence. 237. Using as true such declaration knowing it to be false. 200. Using as true such declaration knowing it to be false.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "200": {
+      "section": "200",
+      "title": "Punishment for non-treatment of victim.",
+      "description": "Punishment for non-treatment of victim.",
+      "punishment": "Punishment for non-treatment of victim",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "201": {
+      "section": "201",
+      "title": "Causing",
+      "description": "disappearance evidence of offence, or giving false information to screen offender. 239. Intentional omission to give information of offence by person bound to inform. 202. Intentional omission to give information of offence by person bound to inform.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "202": {
+      "section": "202",
+      "title": "Public",
+      "description": "engaging in trade.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "203": {
+      "section": "203",
+      "title": "Giving",
+      "description": "information respecting an offence committed. 241. Destruction of document or electronic record to prevent its production as evidence. 204. Destruction of document to prevent its production as evidence. 242. False personation for purpose of prosecution. 205. False personation for purpose of",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "204": {
+      "section": "204",
+      "title": "Personating a public servant.",
+      "description": "Personating a public servant.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "205": {
+      "section": "205",
+      "title": "Wearing garb or carrying token used by public servant with",
+      "description": "fraudulent intent. CHAPTER XIII OF CONTEMPTS OF THE LAWFUL AUTHORITY OF PUBLIC",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "206": {
+      "section": "206",
+      "title": "Fraudulent",
+      "description": "concealment of property to prevent 244. Fraudulent claim to property to prevent its seizure as forfeited or in 207. Fraudulent claim to property to prevent its seizure as forfeited or in 245. Fraudulently suffering decree for sum not due.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "207": {
+      "section": "207",
+      "title": "Preventing service of summons or other proceeding, or",
+      "description": "preventing publication thereof.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "208": {
+      "section": "208",
+      "title": "Non-attendance in obedience to an order from public servant.",
+      "description": "Non-attendance in obedience to an order from public servant.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "209": {
+      "section": "209",
+      "title": "Non-appearance in response to a proclamation under section",
+      "description": "84 of Bharatiya Nagarik Suraksha Sanhita, 2023.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "210": {
+      "section": "210",
+      "title": "Omission to produce document or electronic record to public",
+      "description": "servant by person legally bound to produce it.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "211": {
+      "section": "211",
+      "title": "Omission to give notice or information to public servant by",
+      "description": "person legally bound to give it.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "212": {
+      "section": "212",
+      "title": "Furnishing false information.",
+      "description": "Furnishing false information.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "213": {
+      "section": "213",
+      "title": "Refusing oath or affirmation when duly required by public",
+      "description": "servant to make it.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "214": {
+      "section": "214",
+      "title": "Refusing",
+      "description": "servant authorised to question. 179. Refusing to answer public servant authorised to question. 215. Refusing to sign statement. 180. Refusing to sign statement. 216. False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation. 181. False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "215": {
+      "section": "215",
+      "title": "Refusing to sign statement.",
+      "description": "Refusing to sign statement.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "216": {
+      "section": "216",
+      "title": "False statement on oath or affirmation to public servant or",
+      "description": "person authorised to administer an oath or affirmation.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "217": {
+      "section": "217",
+      "title": "Public",
+      "description": "direction of law with intent to save property from forfeiture. 256. Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture. 218. Public servant framing incorrect record or writing with intent to save",
+      "punishment": "Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture",
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "218": {
+      "section": "218",
+      "title": "Resistance to taking of property by lawful authority of a public",
+      "description": "Resistance to taking of property by lawful authority of a public",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "219": {
+      "section": "219",
+      "title": "Public",
+      "description": "report, etc., contrary to law.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "220": {
+      "section": "220",
+      "title": "Commitment",
+      "description": "confinement authority who knows that he is acting contrary to law.",
+      "punishment": "Commitment confinement authority who knows that he is acting contrary to law",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "221": {
+      "section": "221",
+      "title": "Intentional",
+      "description": "apprehend on the part of public servant bound to apprehend.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "222": {
+      "section": "222",
+      "title": "Intentional",
+      "description": "apprehend on the part of public servant bound to apprehend person 261. Escape from confinement or negligently public servant. 223. Escape from confinement or custody negligently suffered by public servant.",
+      "punishment": "Escape from confinement or negligently public servant",
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "223": {
+      "section": "223",
+      "title": "Disobedience to order duly promulgated by public servant.",
+      "description": "Disobedience to order duly promulgated by public servant.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "224": {
+      "section": "224",
+      "title": "Threat of injury to public servant.",
+      "description": "Threat of injury to public servant.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "225": {
+      "section": "225",
+      "title": "Threat of injury to induce person to refrain from applying for",
+      "description": "protection to public servant.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "226": {
+      "section": "226",
+      "title": "Attempt to commit suicide to compel or restrain exercise of",
+      "description": "lawful power. CHAPTER XIV OF FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "227": {
+      "section": "227",
+      "title": "Violation",
+      "description": "remission of punishment. 267. Intentional insult or interruption to public servant sitting in judicial proceeding. 228. Intentional insult or interruption to public servant sitting in judicial proceeding. 268. Personation of an assessor. 229. Personation of a juror or 269. Failure by person released on",
+      "punishment": "Violation remission of punishment",
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "228": {
+      "section": "228",
+      "title": "Fabricating false evidence.",
+      "description": "Fabricating false evidence.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "229": {
+      "section": "229",
+      "title": "Punishment for false evidence.",
+      "description": "Punishment for false evidence.",
+      "punishment": "Punishment for false evidence",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "230": {
+      "section": "230",
+      "title": "Giving",
+      "description": "fabricating evidence with intent to procure conviction of capital offence. 194. Giving or fabricating false evidence with intent to procure conviction of capital offence.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "231": {
+      "section": "231",
+      "title": "Giving",
+      "description": "fabricating evidence with intent to procure conviction of offence punishable with imprisonment imprisonment. 195. Giving or fabricating false evidence with intent to procure conviction of offence punishable imprisonment",
+      "punishment": "Giving fabricating evidence with intent to procure conviction of offence punishable with imprisonment imprisonment",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "232": {
+      "section": "232",
+      "title": "Threatening any person to give false evidence.",
+      "description": "Threatening any person to give false evidence.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "233": {
+      "section": "233",
+      "title": "Using evidence known to be false.",
+      "description": "Using evidence known to be false.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "234": {
+      "section": "234",
+      "title": "Issuing",
+      "description": "certificate.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "235": {
+      "section": "235",
+      "title": "Using as true a certificate known to be false.",
+      "description": "Using as true a certificate known to be false.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "236": {
+      "section": "236",
+      "title": "False",
+      "description": "declaration receivable as evidence.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "237": {
+      "section": "237",
+      "title": "Using as true such declaration knowing it to be false.",
+      "description": "Using as true such declaration knowing it to be false.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "238": {
+      "section": "238",
+      "title": "Causing",
+      "description": "disappearance evidence of offence, or giving false information to screen offender.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "239": {
+      "section": "239",
+      "title": "Intentional omission to give information of offence by person",
+      "description": "bound to inform.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "240": {
+      "section": "240",
+      "title": "Giving",
+      "description": "information respecting an offence committed.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "241": {
+      "section": "241",
+      "title": "Destruction of document or electronic record to prevent its",
+      "description": "production as evidence.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "242": {
+      "section": "242",
+      "title": "False personation for purpose of act or proceeding in suit or",
+      "description": "prosecution.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "243": {
+      "section": "243",
+      "title": "Fraudulent",
+      "description": "concealment of property to prevent",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "244": {
+      "section": "244",
+      "title": "Fraudulent claim to property to prevent its seizure as forfeited",
+      "description": "or in execution.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "245": {
+      "section": "245",
+      "title": "Fraudulently suffering decree for sum not due.",
+      "description": "Fraudulently suffering decree for sum not due.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "246": {
+      "section": "246",
+      "title": "Dishonestly making false claim in Court.",
+      "description": "Dishonestly making false claim in Court.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "247": {
+      "section": "247",
+      "title": "Fraudulently obtaining decree for sum not due.",
+      "description": "Fraudulently obtaining decree for sum not due.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "248": {
+      "section": "248",
+      "title": "False charge of offence made with intent to injure.",
+      "description": "False charge of offence made with intent to injure.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "249": {
+      "section": "249",
+      "title": "Harbouring offender.",
+      "description": "Harbouring offender.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "250": {
+      "section": "250",
+      "title": "Taking gift, etc., to screen an offender from punishment.",
+      "description": "Taking gift, etc., to screen an offender from punishment.",
+      "punishment": ", to screen an offender from punishment",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "251": {
+      "section": "251",
+      "title": "Delivery",
+      "description": "possessed with knowledge that it is 254. Delivery of coin as genuine, which, when first possessed, the deliverer did not know to be altered. 258. Sale of counterfeit Government 260. Using as genuine a Government stamp known to be counterfeit. 489B. Using as genuine, forged or counterfeit currency-notes or bank-",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "252": {
+      "section": "252",
+      "title": "Taking gift to help to recover stolen property, etc.",
+      "description": "Taking gift to help to recover stolen property, etc.",
+      "punishment": null,
+      "category": "Theft",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "253": {
+      "section": "253",
+      "title": "Harbouring offender who has escaped from custody or whose",
+      "description": "apprehension has been ordered.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "254": {
+      "section": "254",
+      "title": "Penalty for harbouring robbers or dacoits.",
+      "description": "Penalty for harbouring robbers or dacoits.",
+      "punishment": "Penalty for harbouring robbers or dacoits",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "255": {
+      "section": "255",
+      "title": "Public",
+      "description": "direction of law with intent to save person from punishment or property from forfeiture.",
+      "punishment": "Public direction of law with intent to save person from punishment or property from forfeiture",
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "256": {
+      "section": "256",
+      "title": "Public servant framing incorrect record or writing with intent",
+      "description": "to save person from punishment or property from forfeiture.",
+      "punishment": "Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture",
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "257": {
+      "section": "257",
+      "title": "Public",
+      "description": "proceeding corruptly making report, etc., contrary to law.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "258": {
+      "section": "258",
+      "title": "Commitment",
+      "description": "confinement authority who knows that he is acting contrary to law.",
+      "punishment": "Commitment confinement authority who knows that he is acting contrary to law",
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "259": {
+      "section": "259",
+      "title": "Intentional",
+      "description": "apprehend on part of public servant bound to apprehend.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "260": {
+      "section": "260",
+      "title": "Intentional",
+      "description": "apprehend on the part of public servant bound to apprehend person",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "261": {
+      "section": "261",
+      "title": "Escape from confinement or custody negligently suffered by",
+      "description": "public servant.",
+      "punishment": "Escape from confinement or custody negligently suffered by public servant",
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "262": {
+      "section": "262",
+      "title": "Resistance or obstruction by a person to his lawful",
+      "description": "apprehension.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "263": {
+      "section": "263",
+      "title": "Resistance or obstruction to lawful apprehension of another",
+      "description": "Resistance or obstruction to lawful apprehension of another",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "264": {
+      "section": "264",
+      "title": "Omission to apprehend, or sufferance of escape, on part of",
+      "description": "public servant, in cases not otherwise provided for.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "265": {
+      "section": "265",
+      "title": "Resistance or obstruction to lawful apprehension or escape or",
+      "description": "rescue in cases not otherwise provided for.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "266": {
+      "section": "266",
+      "title": "Violation",
+      "description": "remission of punishment.",
+      "punishment": "Violation remission of punishment",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "267": {
+      "section": "267",
+      "title": "Intentional insult or interruption to public servant sitting in",
+      "description": "judicial proceeding.",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "268": {
+      "section": "268",
+      "title": "Personation of assessor.",
+      "description": "Personation of assessor.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "269": {
+      "section": "269",
+      "title": "Failure by person released on bail or bond to appear in Court.",
+      "description": "OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY AND MORALS",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "270": {
+      "section": "270",
+      "title": "Public nuisance.",
+      "description": "Public nuisance.",
+      "punishment": null,
+      "category": "Public Order",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "271": {
+      "section": "271",
+      "title": "Negligent act likely to spread infection of disease dangerous",
+      "description": "Negligent act likely to spread infection of disease dangerous",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "272": {
+      "section": "272",
+      "title": "Malignant act likely to spread infection of disease dangerous",
+      "description": "Malignant act likely to spread infection of disease dangerous",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "273": {
+      "section": "273",
+      "title": "Disobedience to quarantine rule.",
+      "description": "Disobedience to quarantine rule.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "274": {
+      "section": "274",
+      "title": "Adulteration of food or drink intended for sale.",
+      "description": "Adulteration of food or drink intended for sale.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "275": {
+      "section": "275",
+      "title": "Sale of noxious food or drink.",
+      "description": "Sale of noxious food or drink.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "276": {
+      "section": "276",
+      "title": "Adulteration of drugs.",
+      "description": "Adulteration of drugs.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "277": {
+      "section": "277",
+      "title": "Sale of adulterated drugs.",
+      "description": "Sale of adulterated drugs.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "278": {
+      "section": "278",
+      "title": "Sale of drug as a different drug or preparation.",
+      "description": "Sale of drug as a different drug or preparation.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "279": {
+      "section": "279",
+      "title": "Fouling water of public spring or reservoir.",
+      "description": "Fouling water of public spring or reservoir.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "280": {
+      "section": "280",
+      "title": "Making atmosphere noxious to health.",
+      "description": "Making atmosphere noxious to health.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "281": {
+      "section": "281",
+      "title": "Rash driving or riding on a public way.",
+      "description": "Rash driving or riding on a public way.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "282": {
+      "section": "282",
+      "title": "Rash navigation of vessel.",
+      "description": "Rash navigation of vessel.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "283": {
+      "section": "283",
+      "title": "Exhibition of false light, mark or buoy.",
+      "description": "Exhibition of false light, mark or buoy.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "284": {
+      "section": "284",
+      "title": "Conveying person by water for hire in unsafe or overloaded",
+      "description": "Conveying person by water for hire in unsafe or overloaded",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "285": {
+      "section": "285",
+      "title": "Danger or obstruction in public way or line of navigation.",
+      "description": "Danger or obstruction in public way or line of navigation.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "286": {
+      "section": "286",
+      "title": "Negligent conduct with respect to poisonous substance.",
+      "description": "Negligent conduct with respect to poisonous substance.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "287": {
+      "section": "287",
+      "title": "Negligent conduct with respect to fire or combustible matter.",
+      "description": "Negligent conduct with respect to fire or combustible matter.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "288": {
+      "section": "288",
+      "title": "Negligent conduct with respect to explosive substance.",
+      "description": "Negligent conduct with respect to explosive substance.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "289": {
+      "section": "289",
+      "title": "Negligent conduct with respect to machinery.",
+      "description": "Negligent conduct with respect to machinery.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "290": {
+      "section": "290",
+      "title": "Negligent conduct with respect to pulling down, repairing or",
+      "description": "constructing buildings, etc.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "291": {
+      "section": "291",
+      "title": "Negligent conduct with respect to animal.",
+      "description": "Negligent conduct with respect to animal.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "292": {
+      "section": "292",
+      "title": "Punishment for public nuisance in cases not otherwise",
+      "description": "provided for.",
+      "punishment": "Punishment for public nuisance in cases not otherwise provided for",
+      "category": "Public Order",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "293": {
+      "section": "293",
+      "title": "Continuance of nuisance after injunction to discontinue.",
+      "description": "Continuance of nuisance after injunction to discontinue.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "294": {
+      "section": "294",
+      "title": "Sale, etc., of obscene books, etc.",
+      "description": "Sale, etc., of obscene books, etc.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "295": {
+      "section": "295",
+      "title": "Sale, etc., of obscene objects to child.",
+      "description": "Sale, etc., of obscene objects to child.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "296": {
+      "section": "296",
+      "title": "Obscene acts and songs.",
+      "description": "Obscene acts and songs.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "297": {
+      "section": "297",
+      "title": "Keeping lottery office.",
+      "description": "CHAPTER XVI OF OFFENCES RELATING TO RELIGION",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "298": {
+      "section": "298",
+      "title": "Injuring or defiling place of worship with intent to insult",
+      "description": "religion of any class.",
+      "punishment": null,
+      "category": "Defamation",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "299": {
+      "section": "299",
+      "title": "Deliberate and malicious acts, intended to outrage religious",
+      "description": "feelings of any class by insulting its religion or religious beliefs.",
+      "punishment": null,
+      "category": "Defamation",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "300": {
+      "section": "300",
+      "title": "Disturbing religious assembly.",
+      "description": "Disturbing religious assembly.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "301": {
+      "section": "301",
+      "title": "Trespassing on burial places, etc.",
+      "description": "Trespassing on burial places, etc.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "302": {
+      "section": "302",
+      "title": "Uttering",
+      "description": "deliberate intent to wound religious feelings of any person. 298. Uttering words, etc., with deliberate intent to wound religious feelings of any person. CHAPTER XVII OF OFFENCES AGAINST CHAPTER XVII OF OFFENCES AGAINST 303. Theft. 378. Theft.",
+      "punishment": null,
+      "category": "Theft",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "303": {
+      "section": "303",
+      "title": "Theft.",
+      "description": "Theft.",
+      "punishment": null,
+      "category": "Theft",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "304": {
+      "section": "304",
+      "title": "Punishment",
+      "description": "homicide not amounting to murder. 106. Causing death by negligence. 304A. Causing death by negligence. 106(2) Hit & Run New Sub-Section 107. Abetment of suicide of child or person of unsound mind. 305. Abetment of suicide of child or insane person. 108. Abetment of suicide. 306. Abetment of suicide. 109. Attempt to murder. 307. Attempt to murder. 110. Attempt to commit culpable 308. Attempt to commit culpable",
+      "punishment": "Causing death by negligence",
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "305": {
+      "section": "305",
+      "title": "Theft in a dwelling house, or means of transportation or place",
+      "description": "of worship, etc.",
+      "punishment": null,
+      "category": "Theft",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "306": {
+      "section": "306",
+      "title": "Theft by clerk or servant of property in possession of master.",
+      "description": "Theft by clerk or servant of property in possession of master.",
+      "punishment": null,
+      "category": "Theft",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "307": {
+      "section": "307",
+      "title": "Theft after preparation made for causing death, hurt or",
+      "description": "restraint in order to committing of theft. Of extortion",
+      "punishment": "Theft after preparation made for causing death, hurt or restraint in order to committing of theft",
+      "category": "Theft",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "308": {
+      "section": "308",
+      "title": "Extortion.",
+      "description": "Of robbery and dacoity",
+      "punishment": null,
+      "category": "Robbery & Dacoity",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "309": {
+      "section": "309",
+      "title": "Robbery.",
+      "description": "Robbery.",
+      "punishment": null,
+      "category": "Robbery & Dacoity",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "310": {
+      "section": "310",
+      "title": "Dacoity.",
+      "description": "Dacoity.",
+      "punishment": null,
+      "category": "Robbery & Dacoity",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "311": {
+      "section": "311",
+      "title": "Robbery,",
+      "description": "attempt to cause death or grievous",
+      "punishment": "Robbery, attempt to cause death or grievous",
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "312": {
+      "section": "312",
+      "title": "Attempt to commit robbery or dacoity when armed with deadly",
+      "description": "Attempt to commit robbery or dacoity when armed with deadly",
+      "punishment": null,
+      "category": "Robbery & Dacoity",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "313": {
+      "section": "313",
+      "title": "Punishment for belonging to gang of robbers, etc.",
+      "description": "Of criminal misappropriation of property",
+      "punishment": "Punishment for belonging to gang of robbers, etc",
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "314": {
+      "section": "314",
+      "title": "Dishonest misappropriation of property.",
+      "description": "Dishonest misappropriation of property.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "315": {
+      "section": "315",
+      "title": "Dishonest",
+      "description": "misappropriation Of criminal breach of trust",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "316": {
+      "section": "316",
+      "title": "Criminal breach of trust.",
+      "description": "Of receiving stolen property",
+      "punishment": null,
+      "category": "Theft",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "317": {
+      "section": "317",
+      "title": "Stolen property.",
+      "description": "Of cheating",
+      "punishment": null,
+      "category": "Theft",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "318": {
+      "section": "318",
+      "title": "Cheating.",
+      "description": "Cheating.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "319": {
+      "section": "319",
+      "title": "Cheating by personation.",
+      "description": "Of fraudulent deeds and dispositions of property.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "320": {
+      "section": "320",
+      "title": "Dishonest or fraudulent removal or concealment of property to",
+      "description": "prevent distribution among creditors.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "321": {
+      "section": "321",
+      "title": "Dishonestly",
+      "description": "fraudulently preventing debt being available for 422. Dishonestly or fraudulently preventing debt being available for",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "322": {
+      "section": "322",
+      "title": "Dishonest",
+      "description": "consideration.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "323": {
+      "section": "323",
+      "title": "Punishment",
+      "description": "voluntarily causing hurt. 116. Grievous hurt. 320. Grievous hurt. 117. Voluntarily causing grievous 322. Voluntarily causing grievous",
+      "punishment": "Punishment voluntarily causing hurt",
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "324": {
+      "section": "324",
+      "title": "Mischief.",
+      "description": "Mischief.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "325": {
+      "section": "325",
+      "title": "Punishment",
+      "description": "voluntarily causing grievous hurt. 118. Voluntarily causing hurt or grievous hurt by dangerous weapons 324. Voluntarily causing hurt by dangerous weapons or means. 326. Voluntarily causing grievous hurt by dangerous weapons or 119. Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act.",
+      "punishment": "Punishment voluntarily causing grievous hurt",
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "326": {
+      "section": "326",
+      "title": "Mischief by injury, inundation, fire or explosive substance, etc.",
+      "description": "Mischief by injury, inundation, fire or explosive substance, etc.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "327": {
+      "section": "327",
+      "title": "Mischief with intent to destroy or make unsafe a rail, aircraft,",
+      "description": "decked vessel or one of twenty tons burden.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "328": {
+      "section": "328",
+      "title": "Punishment for intentionally running vessel aground or",
+      "description": "ashore with intent to commit theft, etc. Of criminal trespass",
+      "punishment": "Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc",
+      "category": "Theft",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "329": {
+      "section": "329",
+      "title": "Criminal trespass and house-trespass.",
+      "description": "Criminal trespass and house-trespass.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "330": {
+      "section": "330",
+      "title": "House-trespass",
+      "description": "443. Lurking house-trespass. 444. Lurking house-trespass by 445. House-breaking. 446. House-breaking by night. 331. Punishment for house-trespass",
+      "punishment": "Punishment for house-trespass",
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "331": {
+      "section": "331",
+      "title": "Punishment for house-trespass or house-breaking.",
+      "description": "Punishment for house-trespass or house-breaking.",
+      "punishment": "Punishment for house-trespass or house-breaking",
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "332": {
+      "section": "332",
+      "title": "House-trespass in order to commit offence.",
+      "description": "House-trespass in order to commit offence.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "333": {
+      "section": "333",
+      "title": "House-trespass after preparation for hurt, assault or wrongful",
+      "description": "House-trespass after preparation for hurt, assault or wrongful",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "334": {
+      "section": "334",
+      "title": "Dishonestly",
+      "description": "receptacle containing property.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "335": {
+      "section": "335",
+      "title": "Making a false document.",
+      "description": "Making a false document.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "336": {
+      "section": "336",
+      "title": "Forgery.",
+      "description": "Forgery.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "337": {
+      "section": "337",
+      "title": "Causing",
+      "description": "endangering life or personal safety 338. Causing grievous hurt by act endangering life or personal safety Of wrongful restraint and wrongful confinement Of wrongful restraint and wrongful confinement 126. Wrongful restraint.",
+      "punishment": "Causing grievous hurt by act endangering life or personal safety Of wrongful restraint and wrongful confinement Of wrongful restraint and wrongful confinement 126",
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "338": {
+      "section": "338",
+      "title": "341 (1)",
+      "description": "341 (1)",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "339": {
+      "section": "339",
+      "title": "Having possession of document described in section 337 or",
+      "description": "section 338, knowing it to be forged and intending to use it as",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "340": {
+      "section": "340",
+      "title": "Forged document or electronic record and using it as genuine.",
+      "description": "Forged document or electronic record and using it as genuine.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "341": {
+      "section": "341",
+      "title": "Punishment",
+      "description": "127. Wrongful confinement. 340. Wrongful confinement. 342. Punishment for wrongful confinement. 343. Wrongful confinement for three or more days. 344. Wrongful confinement for ten or 345. Wrongful confinement of person",
+      "punishment": "Punishment for wrongful confinement",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "342": {
+      "section": "342",
+      "title": "Counterfeiting device or mark used for authenticating",
+      "description": "documents described in section 338, or possessing counterfeit marked material.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "343": {
+      "section": "343",
+      "title": "Fraudulent",
+      "description": "cancellation, destruction, etc., of will, authority to adopt, or valuable security.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "344": {
+      "section": "344",
+      "title": "Falsification of accounts.",
+      "description": "Of property marks",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "345": {
+      "section": "345",
+      "title": "Property mark.",
+      "description": "Property mark.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "346": {
+      "section": "346",
+      "title": "Tampering with property mark with intent to cause injury.",
+      "description": "Tampering with property mark with intent to cause injury.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "347": {
+      "section": "347",
+      "title": "Counterfeiting a property mark.",
+      "description": "Counterfeiting a property mark.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "348": {
+      "section": "348",
+      "title": "Making or possession of any instrument for counterfeiting a",
+      "description": "property mark.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "349": {
+      "section": "349",
+      "title": "Selling goods marked with a counterfeit property mark.",
+      "description": "Selling goods marked with a counterfeit property mark.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "350": {
+      "section": "350",
+      "title": "Making a false mark upon any receptacle containing goods.",
+      "description": "CHAPTER XIX OF CRIMINAL INTIMIDATION, INSULT, ANNOYANCE, DEFAMATION, ETC.",
+      "punishment": null,
+      "category": "Defamation",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "351": {
+      "section": "351",
+      "title": "Criminal intimidation.",
+      "description": "Criminal intimidation.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "352": {
+      "section": "352",
+      "title": "Intentional insult with intent to provoke breach of peace.",
+      "description": "Intentional insult with intent to provoke breach of peace.",
+      "punishment": null,
+      "category": "Defamation",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "353": {
+      "section": "353",
+      "title": "Statements conducing to public mischief.",
+      "description": "Statements conducing to public mischief.",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "354": {
+      "section": "354",
+      "title": "Act caused by inducing person to believe that he will be",
+      "description": "rendered an object of Divine displeasure.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "355": {
+      "section": "355",
+      "title": "Misconduct in public by a drunken person.",
+      "description": "Of defamation",
+      "punishment": null,
+      "category": "Defamation",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "356": {
+      "section": "356",
+      "title": "Defamation.",
+      "description": "Of breach of contract to attend on and supply wants of helpless",
+      "punishment": null,
+      "category": "Defamation",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "357": {
+      "section": "357",
+      "title": "Breach of contract to attend on and supply wants of helpless",
+      "description": "REPEAL AND SAVING",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "358": {
+      "section": "358",
+      "title": "Repeal and savings.",
+      "description": "Note: For Reference only. CORRESPONDING SECTION TABLE OF BNS WITH REPEALED ACT",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "120A": {
+      "section": "120A",
+      "title": "Definition",
+      "description": "conspiracy.",
+      "punishment": null,
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "120B": {
+      "section": "120B",
+      "title": "Punishment",
+      "description": "conspiracy. CHAPTER XXIII OF ATTEMPTS TO COMMIT 62. Punishment for attempting to commit offences punishable with 511. Punishment for attempting to commit offences punishable with imprisonment",
+      "punishment": "Punishment for attempting to commit offences punishable with imprisonment",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "354A": {
+      "section": "354A",
+      "title": "Sexual",
+      "description": "punishment for sexual harassment. 76. Assault or use of criminal force to woman with intent to disrobe. 354B. Assault or use of criminal force to woman with intent to disrobe. 77. Voyeurism. 354C. Voyeurism. 78. Stalking. 354D. Stalking 79. Word, gesture or act intended to insult modesty of a woman. 509. Word, gesture or act intended to insult the modesty of a woman. Of offences relating to marriage CHAPTER XVI",
+      "punishment": "Sexual punishment for sexual harassment",
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "498A": {
+      "section": "498A",
+      "title": "Husband",
+      "description": "husband of a woman subjecting her to cruelty. 86. Cruelty Defined 498A. Explanation CHAPTER XVI OF OFFENCES AFFECTING THE Kidnapping, Slavery and Forced Labour 87. Kidnapping, abducting or inducing woman to compel her marriage, etc.",
+      "punishment": null,
+      "category": "Kidnapping",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "366": {
+      "section": "366",
+      "title": "Kidnapping,",
+      "description": "inducing woman to compel her marriage, etc. Of causing of miscarriage, etc. Of the causing of Miscarriage, of Injuries to unborn Children, of the exposure of infants, and of the Concealment of Births 88. Causing miscarriage. 312. Causing miscarriage.",
+      "punishment": null,
+      "category": "Kidnapping",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "326B": {
+      "section": "326B",
+      "title": "Voluntarily",
+      "description": "attempting to throw acid. 125. Act endangering life or personal safety of others. 336. Act endangering life or personal safety of others.",
+      "punishment": null,
+      "category": "Miscellaneous",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "171F": {
+      "section": "171F",
+      "title": "Punishment",
+      "description": "influence or personation at an 175. False statement in connection with an election. 171G. False statement in connection with an election. 176. Illegal payments in connection with an election. 171H. Illegal payments in connection with an election.",
+      "punishment": "Punishment influence or personation at an 175",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "153B": {
+      "section": "153B",
+      "title": "Imputations,",
+      "description": "prejudicial to national integration. CHAPTER XII OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS 198. Public servant disobeying law, with intent to cause injury to any 166. Public servant disobeying law, with intent to cause injury to any",
+      "punishment": null,
+      "category": "Corruption",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "166A": {
+      "section": "166A",
+      "title": "Public",
+      "description": "direction under law. 200. Punishment for non-treatment of 166B. Punishment for non-treatment",
+      "punishment": "Punishment for non-treatment of 166B",
+      "category": "General Provisions",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "388": {
+      "section": "388",
+      "title": "Extortion",
+      "description": "accusation of an offence punishable with death or imprisonment for life, Of robbery and dacoity Of Robbery and Dacoity 309. Robbery. 309 (1)(2)(3) 390. Robbery. 392. Punishment for robbery. 393. Attempt to commit robbery. 394. Voluntarily causing hurt in",
+      "punishment": "Extortion accusation of an offence punishable with death or imprisonment for life, Of robbery and dacoity Of Robbery and Dacoity 309",
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "397": {
+      "section": "397",
+      "title": "Robbery,",
+      "description": "attempt to cause death or grievous 312. Attempt to commit robbery or dacoity when armed with deadly 398. Attempt to commit robbery or dacoity when armed with deadly 313. Punishment for belonging to gang of robbers, dacoits, etc. 401. Punishment for belonging to gang of thieves. Of criminal misappropriation of Of Criminal Misappropriation of",
+      "punishment": "Robbery, attempt to cause death or grievous 312",
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "420": {
+      "section": "420",
+      "title": "Cheating",
+      "description": "dishonestly inducing delivery of property. Cheating by personation 416. Cheating by personation. 419. Punishment of cheating by personation. Of fraudulent deeds and dispositions of property. Of Fraudulent Deeds and Dispositions Of Property. 320. Dishonest or fraudulent removal concealment",
+      "punishment": "Punishment of cheating by personation",
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "423": {
+      "section": "423",
+      "title": "Dishonest",
+      "description": "consideration. 323. Dishonest or fraudulent removal or concealment of property. 424. Dishonest or fraudulent removal or concealment of property. Of mischief Of Mischief",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "440": {
+      "section": "440",
+      "title": "Mischief",
+      "description": "preparation made for causing death 325. Mischief by killing or maiming 428. Mischief by killing or maiming animal of the value of ten rupees. 429. Mischief by killing or maiming cattle, etc., of any value or any animal of the value of fifty rupees. 326. Mischief by injury, inundation, fire or explosive substance, etc. 430. Mischief by injury to works of irrigation or by wrongfully diverting",
+      "punishment": "Mischief preparation made for causing death 325",
+      "category": "Murder & Homicide",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "434": {
+      "section": "434",
+      "title": "Mischief",
+      "description": "moving, etc., a land-mark fixed by public authority. 435. Mischief by fire or explosive substance with intent to cause damage to amount of one hundred or (in case of agricultural produce) ten rupees. 436. Mischief by fire or explosive substance with intent to destroy",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "447": {
+      "section": "447",
+      "title": "Punishment",
+      "description": "448. Punishment for house-trespass.",
+      "punishment": "Punishment for house-trespass",
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "454": {
+      "section": "454",
+      "title": "Lurking",
+      "description": "house-trespass house-breaking in order to commit imprisonment.",
+      "punishment": "Lurking house-trespass house-breaking in order to commit imprisonment",
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "457": {
+      "section": "457",
+      "title": "Lurking",
+      "description": "house-trespass house-breaking by night in order to commit offence punishable with imprisonment.",
+      "punishment": "Lurking house-trespass house-breaking by night in order to commit offence punishable with imprisonment",
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "455": {
+      "section": "455",
+      "title": "Lurking",
+      "description": "house-trespass house-breaking after preparation",
+      "punishment": null,
+      "category": "Property Crimes",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "458": {
+      "section": "458",
+      "title": "Lurking",
+      "description": "house-trespass house-breaking preparation for hurt, assault, or wrongful restraint. 459. Grievous hurt caused whilst committing lurking house-trespass or house-breaking. 460. All persons jointly concerned in lurking house-trespass or house- breaking by night punishable where",
+      "punishment": "All persons jointly concerned in lurking house-trespass or house- breaking by night punishable where",
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "452": {
+      "section": "452",
+      "title": "House-trespass",
+      "description": "preparation for hurt, assault or wrongful restraint.",
+      "punishment": null,
+      "category": "Assault & Violence",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "461": {
+      "section": "461",
+      "title": "Dishonestly",
+      "description": "receptacle containing property. 462. Punishment for same offence entrusted with custody. CHAPTER XVIII OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY CHAPTER XVIII OF OFFENCES RELATING TO DOCUMENTS AND TO PROPERTY MARKS",
+      "punishment": "Punishment for same offence entrusted with custody",
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "472": {
+      "section": "472",
+      "title": "Making",
+      "description": "counterfeit seal, etc., with intent to commit forgery punishable under section 467.",
+      "punishment": ", with intent to commit forgery punishable under section 467",
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "473": {
+      "section": "473",
+      "title": "Making",
+      "description": "counterfeit seal, etc., with intent to 341 (3) Possess any seal, plate or other instrument knowing the same to be counterfeit New Sub-Section 341 (4) fraudulently or dishonestly uses as genuine any seal, plate or",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "477": {
+      "section": "477",
+      "title": "Fraudulent",
+      "description": "cancellation, destruction, etc., of will, authority to adopt, or valuable security. 344. Falsification of accounts. 477A. Falsification of accounts. Of property marks Of Property and Other Marks 345. Property mark. 479. Property mark. 481. Using a false property mark.",
+      "punishment": null,
+      "category": "Fraud & Cheating",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    },
+    "506": {
+      "section": "506",
+      "title": "Punishment",
+      "description": "intimidation. 507. Criminal intimidation by an anonymous communication. 352. Intentional insult with intent to provoke breach of peace. 504. Intentional insult with intent to provoke breach of the peace. 353. Statements conducing to public 505. Statements conducing to public 354. Act caused by inducing person to believe that he will be rendered an object of Divine displeasure. 508. Act caused by inducing person",
+      "punishment": "Punishment intimidation",
+      "category": "Defamation",
+      "act": "Bharatiya Nyaya Sanhita, 2023 (BNS)"
+    }
+  },
+  "categories": {
+    "Miscellaneous": [
+      "1",
+      "5",
+      "8",
+      "11",
+      "12",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "42",
+      "43",
+      "58",
+      "72",
+      "77",
+      "78",
+      "80",
+      "81",
+      "82",
+      "84",
+      "85",
+      "86",
+      "88",
+      "91",
+      "93",
+      "94",
+      "95",
+      "96",
+      "98",
+      "99",
+      "106",
+      "111",
+      "113",
+      "125",
+      "126",
+      "128",
+      "141",
+      "142",
+      "143",
+      "145",
+      "146",
+      "149",
+      "150",
+      "152",
+      "153",
+      "156",
+      "157",
+      "158",
+      "164",
+      "165",
+      "167",
+      "171",
+      "172",
+      "175",
+      "176",
+      "177",
+      "179",
+      "180",
+      "182",
+      "183",
+      "184",
+      "185",
+      "186",
+      "188",
+      "196",
+      "197",
+      "199",
+      "201",
+      "202",
+      "203",
+      "207",
+      "209",
+      "212",
+      "215",
+      "219",
+      "220",
+      "226",
+      "228",
+      "230",
+      "231",
+      "232",
+      "233",
+      "234",
+      "235",
+      "236",
+      "237",
+      "238",
+      "239",
+      "240",
+      "241",
+      "242",
+      "248",
+      "249",
+      "251",
+      "253",
+      "254",
+      "257",
+      "258",
+      "262",
+      "263",
+      "265",
+      "268",
+      "269",
+      "271",
+      "272",
+      "273",
+      "274",
+      "275",
+      "276",
+      "277",
+      "278",
+      "279",
+      "280",
+      "281",
+      "282",
+      "283",
+      "284",
+      "285",
+      "286",
+      "287",
+      "288",
+      "289",
+      "290",
+      "291",
+      "293",
+      "294",
+      "295",
+      "296",
+      "297",
+      "300",
+      "322",
+      "326B",
+      "335",
+      "338",
+      "339",
+      "340",
+      "351",
+      "354",
+      "357",
+      "358"
+    ],
+    "General Provisions": [
+      "2",
+      "3",
+      "4",
+      "6",
+      "9",
+      "10",
+      "13",
+      "49",
+      "50",
+      "52",
+      "66",
+      "71",
+      "120A",
+      "120B",
+      "166A",
+      "171F",
+      "174",
+      "200",
+      "229",
+      "250",
+      "266",
+      "341"
+    ],
+    "Property Crimes": [
+      "7",
+      "35",
+      "41",
+      "154",
+      "155",
+      "217",
+      "218",
+      "255",
+      "256",
+      "301",
+      "313",
+      "314",
+      "315",
+      "324",
+      "326",
+      "327",
+      "329",
+      "330",
+      "331",
+      "332",
+      "344",
+      "345",
+      "346",
+      "349",
+      "353",
+      "434",
+      "447",
+      "454",
+      "455",
+      "457"
+    ],
+    "Assault & Violence": [
+      "25",
+      "44",
+      "73",
+      "74",
+      "76",
+      "114",
+      "115",
+      "116",
+      "117",
+      "118",
+      "119",
+      "120",
+      "121",
+      "122",
+      "123",
+      "124",
+      "127",
+      "130",
+      "131",
+      "132",
+      "133",
+      "136",
+      "151",
+      "161",
+      "162",
+      "195",
+      "311",
+      "323",
+      "325",
+      "333",
+      "337",
+      "354A",
+      "388",
+      "397",
+      "452",
+      "458"
+    ],
+    "Abetment & Conspiracy": [
+      "45",
+      "46",
+      "47",
+      "48",
+      "51",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57",
+      "60",
+      "61",
+      "107",
+      "108",
+      "112",
+      "129",
+      "135",
+      "138",
+      "147",
+      "148",
+      "159",
+      "160",
+      "163",
+      "166"
+    ],
+    "Corruption": [
+      "59",
+      "153B",
+      "169",
+      "170",
+      "173",
+      "187",
+      "198",
+      "204",
+      "208",
+      "210",
+      "211",
+      "213",
+      "214",
+      "216",
+      "221",
+      "222",
+      "223",
+      "224",
+      "225",
+      "227",
+      "259",
+      "260",
+      "261",
+      "264",
+      "267"
+    ],
+    "Sexual Offences": [
+      "62",
+      "63",
+      "64",
+      "65",
+      "67",
+      "68",
+      "69",
+      "70",
+      "75",
+      "79"
+    ],
+    "Fraud & Cheating": [
+      "83",
+      "168",
+      "178",
+      "181",
+      "205",
+      "206",
+      "243",
+      "244",
+      "245",
+      "246",
+      "247",
+      "318",
+      "319",
+      "320",
+      "321",
+      "334",
+      "336",
+      "342",
+      "343",
+      "347",
+      "348",
+      "420",
+      "423",
+      "461",
+      "472",
+      "473",
+      "477"
+    ],
+    "Kidnapping": [
+      "87",
+      "97",
+      "137",
+      "139",
+      "366",
+      "498A"
+    ],
+    "Murder & Homicide": [
+      "89",
+      "90",
+      "92",
+      "100",
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "109",
+      "110",
+      "140",
+      "304",
+      "440"
+    ],
+    "Theft": [
+      "134",
+      "252",
+      "302",
+      "303",
+      "305",
+      "306",
+      "307",
+      "316",
+      "317",
+      "328"
+    ],
+    "Public Order": [
+      "144",
+      "189",
+      "190",
+      "191",
+      "192",
+      "193",
+      "194",
+      "270",
+      "292"
+    ],
+    "Defamation": [
+      "298",
+      "299",
+      "350",
+      "352",
+      "355",
+      "356",
+      "506"
+    ],
+    "Robbery & Dacoity": [
+      "308",
+      "309",
+      "310",
+      "312"
+    ]
+  }
+}
