@@ -98,14 +98,14 @@ export default function Chat() {
             {
               id: `${chat.id}-user`,
               type: "user" as const,
-              content: chat.message,
-              timestamp: new Date(chat.timestamp),
+              content: chat.message || "",
+              timestamp: chat.timestamp ? new Date(chat.timestamp) : new Date(),
             },
             {
               id: `${chat.id}-ai`,
               type: "ai" as const,
-              content: chat.response,
-              timestamp: new Date(chat.timestamp),
+              content: chat.response || "",
+              timestamp: chat.timestamp ? new Date(chat.timestamp) : new Date(),
             },
           ]);
 
@@ -402,7 +402,7 @@ Please provide more details about your query so I can provide accurate legal inf
                   </div>
                 ) : (
                   <div className="whitespace-pre-wrap text-sm md:text-base leading-relaxed">
-                    {message.content.split("\n").map((line, idx) => {
+                    {(message.content || "").split("\n").map((line, idx) => {
                       // Bold headers
                       if (line.startsWith("**") && line.endsWith("**")) {
                         return (
